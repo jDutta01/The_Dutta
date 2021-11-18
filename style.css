@@ -1,0 +1,35 @@
+body{
+  margin: 0;
+  text-align: center;
+  background-color: black;
+
+}
+.heading{
+  font-family: 'Frank Ruhl Libre', serif;
+}
+.div1
+{
+
+  color: white;
+  height: 800px;
+}
+
+h1
+{
+  padding-top: 20px;
+  color: #FF00FF;
+  font-size: 80px;
+  margin: 0;
+  font-family: 'Great Vibes', cursive;
+}
+.rocket
+{
+  display: block;
+  margin : 0 auto;
+}
+
+.earth
+{
+  max-width: 99%;
+  max-height: 99%;
+}
